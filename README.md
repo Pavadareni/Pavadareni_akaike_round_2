@@ -41,14 +41,15 @@ Output\
 
 Tech Stack used
 
-pandas for data analysis 
+--pandas for data analysis 
 
-matplotlib for vizulization 
+--matplotlib for vizulization 
 
-Prophet for model to the task forcasting 
+--Prophet for model to the task forcasting 
 
-streamlit for the UI 
+--streamlit for the UI 
 
 
 
- 
+ Deployed in streamlit 
+          https://sales-forecasting-app-pavadareni-akaike.streamlit.app/
